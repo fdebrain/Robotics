@@ -8,8 +8,7 @@ Interactive 2D robot arm visualizer (Jupyter Notebook compatible)
 ## TODO
 - Tutorial
 
-![Demo:](https://github.com/fdebrain/Robotics/blob/master/images/demo.png&s=100)
-<img src="https://github.com/fdebrain/Robotics/blob/master/images/demo.png" width="100" height="100">
+<img src="https://github.com/fdebrain/Robotics/blob/master/images/demo.png" width="500" height="500">
 
 
 ## Credits
