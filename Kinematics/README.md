@@ -7,8 +7,11 @@ Interactive 2D robot arm visualizer (Jupyter Notebook compatible)
 
 ## TODO
 - Tutorial
-![Alt text](images/demo.jpg?raw=true "Demo")
+
+<img src="https://github.com/fdebrain/Robotics/blob/master/Kinematics/images/demo.png" width="500">
+
 
 ## Credits
-https://github.com/nrsyed/examples 
+https://github.com/nrsyed/examples
+
 https://nrsyed.com/2017/12/17/animating-the-jacobian-inverse-method-with-an-interactive-matplotlib-plot/
